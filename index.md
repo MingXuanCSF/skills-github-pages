@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-My name is Tan Ming Xuan
+content: My name is Tan Ming Xuan
 ---
 
